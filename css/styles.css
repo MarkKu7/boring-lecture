@@ -3,23 +3,16 @@ h1 {
     text-align: center;
   }
   
-  h2 {
+h2 {
     color: green;
     text-align: center;
   }
   
-  p {
+p {
     font-family: sans-serif;
   }
   
-  h2.intro {
-    color: red;
-  }
-
-  p.intro {
-    color: yellow;
-  }
-
-  img.intro {
-    color: tomato;
-  }
+.intro {
+  font-family: cursive;
+  color: magenta
+}

@@ -1,0 +1,25 @@
+h1 {
+    color: blue;
+    text-align: center;
+  }
+  
+  h2 {
+    color: green;
+    text-align: center;
+  }
+  
+  p {
+    font-family: sans-serif;
+  }
+  
+  h2.intro {
+    color: red;
+  }
+
+  p.intro {
+    color: yellow;
+  }
+
+  img.intro {
+    color: tomato;
+  }
